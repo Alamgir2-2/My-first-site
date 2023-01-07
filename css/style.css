@@ -43,7 +43,7 @@ p {
 .section1 {
     margin-top: 831px;
     display: flex;
-    margin-left: 206px;
+    margin-left: 180px;
 
 }
 
@@ -51,9 +51,10 @@ p {
     margin-right: 35%;
     margin-left: 6%;
     margin-top: 250px;
+    font-size: 40px;
 }
 
-.section-content {
+.section1-content {
     margin-right: 35%;
     margin-left: 6%;
 }
@@ -65,4 +66,17 @@ p {
 ul li {
     list-style: none;
     padding-bottom: 4px;
+}
+
+.section2-header{
+    text-align: center;
+    margin-top: 100px;
+}
+.section2-content{
+    display: flex;
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-top: 50px;
+    justify-content: space-around;
+    text-align: center;
 }
