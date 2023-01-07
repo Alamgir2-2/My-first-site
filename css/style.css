@@ -80,3 +80,104 @@ ul li {
     justify-content: space-around;
     text-align: center;
 }
+.banner-section{
+    background-image: url('../images/gradient3.png'), url('../images/watch.png');
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    width: 990px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 180px;
+    margin-right: 220px;
+    background-size: contain;
+}
+
+.banner-content{
+    padding: 1px 350px 10px 64px;
+}
+
+.banner-content h2 {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+
+}
+
+.banner-content button {
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px 36px 20px 36px;
+    color: #F15B22;
+    border-radius: 5px;
+    border: 0;
+    margin-bottom: 3px;
+}
+
+.footer-section{
+    width: 100%;
+    height: 560px;
+    display: flex;
+    position: absolute;
+    margin: 30px 0 0 -10px;
+    background: #151414;
+}
+
+.footer-section h2 {
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+}
+
+.footer-section img {
+    margin-left: auto;
+}
+
+.footer-section p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    width: 50%;
+}
+
+.footer-section h3 {
+    font-weight: 600;
+    font-size: 25px;
+    color: #F8F8F8;
+}
+
+.footer-content {
+    margin-left: 200px;
+    margin-top: 100px;
+
+}
+
+input{
+    background-color: #151414;
+    width: 325px;
+    height: 24px;
+    color: #F3F3F3;
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid #F3F3F3;
+}
+
+.footer-section button {
+    border-radius: 8px;
+    background-color: white;
+    color: #F15B22;
+    padding: 15px;
+    font-weight: 600;
+    font-size: 15px;
+    margin-top: 12px;
+}
+
+.footer-section button:hover {
+    cursor: pointer;
+}
+
+.subscribe {
+    margin-right: 200px;
+    margin-top: 130px;
+}
