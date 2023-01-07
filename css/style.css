@@ -39,9 +39,30 @@ p {
     top: 180px;
     text-align: right;
 }
+
 .section1 {
-    margin-top: 431px;
+    margin-top: 831px;
     display: flex;
     margin-left: 206px;
 
+}
+
+.section1 h2 {
+    margin-right: 35%;
+    margin-left: 6%;
+    margin-top: 250px;
+}
+
+.section-content {
+    margin-right: 35%;
+    margin-left: 6%;
+}
+
+.green {
+    color: #16D887;
+}
+
+ul li {
+    list-style: none;
+    padding-bottom: 4px;
 }
